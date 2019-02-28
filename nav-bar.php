@@ -8,9 +8,9 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
               <span class="glyphicon glyphicon-fire"></span> 
-              LOGO
+              DIAMOND-X
             </a>
         </div>
         <!-- Navbar links -->
